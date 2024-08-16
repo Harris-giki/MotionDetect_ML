@@ -35,12 +35,12 @@ An exploration of embedded ML, highlighting the differences between deterministi
   <li><strong>Deployment:</strong> Step-by-step guidance on deploying the trained model on the Arduino Nano BLE Sense 33, with troubleshooting tips.</li>
 </ul>
 
-<h3>Practical Implementation</h3>
+<h2>Practical Implementation</h2>
 <p>
 This section includes practical steps, screenshots, and code snippets to assist readers in implementing the project using Edge Impulse and Arduino IDE.
 </p>
 
-<h3>Additional Resources</h3>
+<h2>Additional Resources</h2>
 <p>
 For further learning, consider exploring the Coursera course linked below. This document aims to be a valuable resource for anyone interested in understanding or replicating the motion detection project using embedded machine learning.
 </p>
